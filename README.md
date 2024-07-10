@@ -1,10 +1,10 @@
 # Vrinda_Store_Analysis  
 Data Cleaning, Data Processing, Data Analysis using Excel 
 
-###Objective 
+### Objective 
 Vrinda store want to create an annual sales report for 2022. so that, vrinda can underst their customer and grow more sales in 2023 
 
-###Insight
+### Insight
 
 Monthly Sales: Analyzed monthly orders and sales to spot key trends and patterns.
 
